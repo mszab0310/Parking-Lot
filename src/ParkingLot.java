@@ -25,7 +25,6 @@ public class ParkingLot extends JFrame {
     public void paint(Graphics g) {
         super.paint(g);
         int p = 1;
-        System.out.println("paint");
         for (int i = 100; i < 600; i += 100) {
             g.drawLine(i, 175, i, 425);
             if (i < 500) {

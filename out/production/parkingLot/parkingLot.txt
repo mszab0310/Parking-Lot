@@ -1,5 +1,2 @@
-red, 1
-blue, 2
-black, 8
-green, 6
-black, 6
+red, 8
+blue, 1
